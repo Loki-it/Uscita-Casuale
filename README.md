@@ -21,3 +21,7 @@ Lo script sceglierà randomicamente le persone e il locale dove uscire
 
 - Scrivi su `amici.txt` la lista dei tuoi amici
 - Scrivi su `locali` la lista dei locali che conosci
+
+### Note aggiuntive
+
+Ci ho messo di più a creare la descrizione che il codice 👀
