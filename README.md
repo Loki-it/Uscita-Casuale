@@ -1,6 +1,6 @@
 <img src="https://apps-cloud.n-tv.de/img/16461661-1489477303000/16-9/750/AP-915017037805.jpg">
 
-# Vita Casuale
+# Uscita Casuale
 
 ![](https://img.shields.io/badge/Support-Linux-lightgrey) ![](https://img.shields.io/badge/Python->3.0-green)
 
